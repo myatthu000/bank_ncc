@@ -1,6 +1,6 @@
 //
 // Created by National Cyber City on 2/20/2023.
-// Assignment 8 - Password length counter/ length strength and Phone validation
+// Assignment 8 - Password length counter/ length strength and Phone number length validation
 //
 
 #ifndef DIPLEVEL1_ZOOM_ONLINE_BANK_H
